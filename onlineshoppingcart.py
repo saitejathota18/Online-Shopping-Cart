@@ -6,6 +6,7 @@ product_price=[20,35,65,30,99,35]
 user_cart=[]
 user_qnt=[]
 user_amt=[]
+#added documentation
 #user selection
 u_s=['View Products','Add to Cart','Remove from Cart','View Cart','checkout','EXIT']
 #Admin selection
